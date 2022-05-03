@@ -1,0 +1,6 @@
+.uasset filter=lfs diff=lfs merge=lfs -text
+.wav filter=lfs diff=lfs merge=lfs -text
+.fbx filter=lfs diff=lfs merge=lfs -text
+.umap filter=lfs diff=lfs merge=lfs -text
+GameMusic.uasset filter=lfs diff=lfs merge=lfs -text
+industrial_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
